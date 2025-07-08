@@ -11,10 +11,10 @@
 ## Technology 
 - JAVA
 
-## Admin Journey
+## Admin
 
 https://docs.google.com/spreadsheets/d/1dHI4sx8i8pgysO2gucmCYwqTqjTXFvIkcZow0k13dQc/edit?usp=sharing
 
-## Student Journey
+## Student 
 
 https://docs.google.com/spreadsheets/d/1dHI4sx8i8pgysO2gucmCYwqTqjTXFvIkcZow0k13dQc/edit?usp=sharing
