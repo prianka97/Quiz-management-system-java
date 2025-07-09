@@ -13,8 +13,8 @@
 
 ## Admin
 
-https://docs.google.com/spreadsheets/d/1dHI4sx8i8pgysO2gucmCYwqTqjTXFvIkcZow0k13dQc/edit?usp=sharing
+https://drive.google.com/file/d/1DptjX3H34Q-q_0y7ATNsnD2Ve-3UTG4D/view?usp=sharing
 
 ## Student 
 
-https://docs.google.com/spreadsheets/d/1dHI4sx8i8pgysO2gucmCYwqTqjTXFvIkcZow0k13dQc/edit?usp=sharing
+https://drive.google.com/file/d/1E3ZJeGmIQN8ofIYQFHi6gWU6suv77kYR/view?usp=sharing
